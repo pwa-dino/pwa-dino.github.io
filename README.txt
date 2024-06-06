@@ -1,1 +1,1 @@
-https://chrome-dino-game.github.io
+https://pwa-dino.github.io
